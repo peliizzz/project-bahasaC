@@ -65,7 +65,7 @@ int usia;
 
 
 
-///        untuk warna text dan background    ///
+///        buat warna text dan background    ///
 void warna_text(int new_color)
 {
     text = new_color;
